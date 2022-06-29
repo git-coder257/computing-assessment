@@ -1,0 +1,50 @@
+{
+	"english": {
+		"greetings": [
+			"Hello, welcome to the Future Tech World!",
+			"Hi there, welcome to the Future Tech World!",
+			"Greeting, this is the Future Tech World!"
+		],
+		"howisuser": {
+			"question": "How are you?",
+			"good": "I am glad to see that.",
+  			"bad": "Oh, I am sorry to see that. I hope you get better."
+		},
+		"name": {
+			"question": "What is your name?",
+			"response": "[insert name] is a lovely name, I love names that start with a [insert letter]."
+		},
+		"age": {
+			"question": "How old are you?",
+			"agegreaterthan35": "What?! You don't look [insert age], you look like you are 25.",
+			"agelessthan35": "Okay. Good for you."
+		},
+		"byes": [
+			"It has been nice talking to you. Bye."
+		]
+	},
+	"french": {
+		"greetings": [
+			"Bonjour, bienvenue dans le monde Future Tech!",
+			"Bonjour, bienvenue dans le Future Tech World!",
+			"Salut, c'est le Future Tech World!"
+		],
+		"howisuser": {
+			"question": "Comment ça va?",
+			"bien": "Je suis content de voir ça.",
+			"mal": "Oh, je suis désolé de voir ça. J'espère que tu vas mieux."
+		},
+		"name": {
+			"question": "Comment t'appelles-tu?",
+			"response": "[insert name] est un joli prénom, j'adore les prénoms qui commencent par un [insert letter]."		
+		},
+		"age": {
+			"question": "Quel âge as-tu?",
+			"agegreaterthan35": "Quoi?! Vous n'avez pas l'air d'avoir [insert age] ans, vous en avez l'air d'en avoir 25.",
+			"agelessthan35": "D'accord. Bien pour vous."
+		},
+		"byes": [
+			"Cela a été agréable de vous parler. Au revoir."
+		]
+	}
+}
